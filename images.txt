@@ -1,1 +1,1 @@
-golang:1.16-buster
+base-debian10:latest
