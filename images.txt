@@ -1,1 +1,1 @@
-nginx:latest
+golang:1.16-buster
